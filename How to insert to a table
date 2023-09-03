@@ -1,0 +1,4 @@
+/* Solution as follows */
+
+INSERT INTO employee (Employee_id,Employee_Name,Department)
+VALUES (6,'Brandon Kim','Operations');
