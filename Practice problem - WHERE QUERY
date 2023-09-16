@@ -1,0 +1,5 @@
+/* Solution as follows */
+
+select passenger_name, gender
+from flights
+where origin = 'New York';
