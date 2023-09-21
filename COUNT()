@@ -1,0 +1,4 @@
+/* Solution as follows */
+
+SELECT COUNT(*) as 'Count'
+FROM EMPLOYEE;
