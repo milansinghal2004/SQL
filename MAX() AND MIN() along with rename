@@ -1,0 +1,6 @@
+/* Solution as follows */
+
+SELECT MAX(Hourly_Pay) as 'max_pay'
+FROM employee;
+SELECT MIN(Hourly_Pay) as 'min_pay'
+FROM employee;
