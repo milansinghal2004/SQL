@@ -1,0 +1,5 @@
+/*Solution as follows*/
+
+
+SELECT ROUND(Taxable_Pay, 2) as 'taxable_pay'
+FROM employee;
