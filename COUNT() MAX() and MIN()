@@ -1,0 +1,13 @@
+/* Solution as follows */
+
+SELECT count(*) as 'count_sales'
+FROM employee
+where Department='Sales';
+
+SELECT MAX(Hourly_Pay) as 'ops_max_pay'
+FROM employee
+where Department='Operations';
+
+SELECT MIN(Hourly_Pay) as 'ops_min_pay'
+FROM employee
+where Department='Operations';
